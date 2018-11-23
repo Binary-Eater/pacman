@@ -31,7 +31,7 @@ java -jar <name of jar>.jar -t
 
 ## Base Overview
 
-Currently have four game AI, types 13 maps, and scoring/end game mechanisms.
+Currently have four game AI types, 13 maps, and scoring/end game mechanisms.
 
 ## Details Behind AI Development
 
